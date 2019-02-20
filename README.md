@@ -3,6 +3,7 @@ Steam Game BIG POGO MAN Unity Porject
 
 ## 게임 정보
 + 플랫폼 : Steam (Windows, Max OS)
++ 스팀 : https://store.steampowered.com/app/876310/BIG_POGO_MAN/
 + 게임 엔진 : Unity
 + 언어 : C#, PlayMaker (언리얼 엔진의 Blueprint 와 유사한 에셋)
 + 게임 목표 : 스카이 콩콩을 타고 맵의 정상에 도착
