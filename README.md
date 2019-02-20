@@ -1,6 +1,9 @@
 # BIG POGO MAN
 Steam Game BIG POGO MAN Unity Porject
 
++ 항아리 게임으로 유명한 Getting Over It 을 모티브로 만든 게임
++ 인터넷 게임 방송인을 게임의 주 타겟으로 설정하고 
+
 ## 게임 정보
 + 플랫폼 : Steam (Windows, Max OS)
 + 스팀 : https://store.steampowered.com/app/876310/BIG_POGO_MAN/
